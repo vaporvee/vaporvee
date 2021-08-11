@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Yannik
+- 👀 I’m interested in music, video games, programming/graphic stuff and cooking
+- 🌱 I’m currently learning Programming lol
+- 🇩🇪 I'm German
+- 📫 My Discord is Yannik#3112
