@@ -1,5 +1,4 @@
-# 👋 Hi, I’m Yannik
-- 👀 I’m interested in music, video games, programming/graphic stuff and cooking
+- 👀 I’m interested in music, video games, programming/graphic stuff 
 - 🌱 I’m currently learning Programming lol
 - 🇩🇪 I'm German
 - 🎂 I'm 17 years old
