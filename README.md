@@ -4,4 +4,4 @@
 ![Profile views](https://komarev.com/ghpvc/?username=vaporvee)
 <br>
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N2KZ183)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/vaporvee)
