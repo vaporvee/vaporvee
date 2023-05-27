@@ -9,7 +9,7 @@
 
 |||
 | --- | --- |
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaporvee&show_icons=true&count_private=true&hide_rank=true&hide_border=true&theme=transparent) | ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vaporvee&langs_count=8&hide_border=true&count_private=true&layout=donut&theme=transparent) |
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaporvee&show_icons=true&hide_rank=true&hide_border=true&theme=transparent) | ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vaporvee&langs_count=8&hide_border=true&count_private=true&layout=donut&theme=transparent) |
 |||
 
  
