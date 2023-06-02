@@ -7,10 +7,8 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/vaporvee)
 
-|||
-| --- | --- |
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaporvee&show_icons=true&hide_rank=true&hide_border=true&theme=transparent) | ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vaporvee&langs_count=8&hide_border=true&count_private=true&layout=donut&theme=transparent) |
-|||
-
- 
+<table align="center">
+<td><img src="https://github-readme-stats.vercel.app/api?username=vaporvee&show_icons=true&hide_rank=true&hide_border=true&theme=transparent"></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaporvee&langs_count=8&hide_border=true&count_private=true&layout=donut&theme=transparent"></td>
+</table>
 
