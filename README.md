@@ -3,7 +3,7 @@
 <h1>Hi, I'm <a href="https://vaporvee.com/" target="_blank">Yannik</a>! Welcome to my GitHub Page <img width="36px" src="https://raw.githubusercontent.com/vaporvee/vaporvee/main/Hi.gif"></h1>
 <br>
   
-![Profile views](https://komarev.com/ghpvc/?username=vaporvee)  <img src="https://raw.githubusercontent.com/vaporvee/RPG-Test/main/assets/textures/debug/banana.png">
+<img src="https://raw.githubusercontent.com/vaporvee/RPG-Test/main/assets/textures/debug/banana.png">
 <br>
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/vaporvee)
