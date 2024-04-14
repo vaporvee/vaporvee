@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/vaporvee/vaporvee/main/gh-banner.jpg">
 <div align="center">
-<h1>Hi, I'm <a href="https://vaporvee.com/" target="_blank">Yannik</a>! Welcome to my GitHub Page <img width="36px" src="https://github.com/vaporvee/vaporvee/assets/80621863/1a051d81-4325-456f-9332-b11814018bb0"></h1>
+<h1>Hi, I'm <a href="https://vaporvee.com/" target="_blank">Yannik</a>! Welcome to my GitHub Page <img width="36px" src="https://raw.githubusercontent.com/vaporvee/vaporvee/main/Hi.gif"></h1>
 <br>
   
 <img src="https://raw.githubusercontent.com/vaporvee/RPG-Test/main/assets/textures/debug/banana.png">
@@ -10,5 +10,6 @@
 
 <table>
 <td><img src="https://github-readme-stats.vercel.app/api?username=vaporvee&show_icons=true&hide_rank=true&hide_border=true&theme=transparent"></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaporvee&langs_count=8&hide_border=true&count_private=true&layout=donut&theme=transparent"></td>
 </table>
 </div>
