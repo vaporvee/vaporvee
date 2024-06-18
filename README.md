@@ -10,6 +10,6 @@
 
 <table>
 <td><img src="https://github-readme-stats.vercel.app/api?username=vaporvee&show_icons=true&hide_border=true&theme=transparent"></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaporvee&langs_count=8&hide_border=true&count_private=true&layout=pie&theme=transparent&exclude_repo=docs"></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaporvee&langs_count=10&hide_border=true&count_private=true&layout=pie&theme=transparent&exclude_repo=docs"></td>
 </table>
 </div>
