@@ -10,6 +10,6 @@
 
 <table>
 <td><img src="https://vaporvee-gh-readme.vercel.app/api?username=vaporvee&show_icons=true&hide_border=true&theme=transparent"></td>
-<td><img src="https://vaporvee-gh-readme.vercel.app/api/top-langs/?username=vaporvee&langs_count=10&hide_border=true&count_private=true&layout=pie&theme=transparent"></td>
+<td><img src="https://vaporvee-gh-readme.vercel.app/api/top-langs/?username=vaporvee&langs_count=16&hide_border=true&count_private=true&layout=pie&theme=transparent"></td>
 </table>
 </div>
