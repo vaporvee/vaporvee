@@ -1,1 +1,1 @@
-# [TRANSFARED TO git.vaporvee.com](https://git.vaporvee.com)
+# [TRANSFERED TO git.vaporvee.com](https://git.vaporvee.com)
